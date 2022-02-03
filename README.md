@@ -17,7 +17,7 @@
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/asifmod"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
